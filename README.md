@@ -21,7 +21,7 @@ Cookie clicker (web version) in a gui with many options to cheat. little side pr
 
 ## How to save game
 - if you wanna play the game in the application for some reason you always have to save your game with the buttons in settings
-![image](https://github.com/Auora0/CookieClickerCheatGui/assets/157948551/16a7ef2d-373c-4a79-a1ba-db176a166bcb)
+- ![image](https://github.com/Auora0/CookieClickerCheatGui/assets/157948551/16a7ef2d-373c-4a79-a1ba-db176a166bcb)
 
 ## Documentation
 - Nope Messy bad code
