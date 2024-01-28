@@ -20,6 +20,13 @@ Cookie clicker (web version) in a gui with many options to cheat. little side pr
 - 
 - ![image](https://github.com/Auora0/CookieClickerCheatGui/assets/157948551/5f9f265a-63ac-4aae-ab44-9180427b7aaa)
 
+## How to install
+- Click on the button
+- ![image](https://github.com/Auora0/CookieClickerCheatGui/assets/157948551/eaf1f50f-2ada-43f0-bbf3-83bd166f867c)
+- Download the Zip file
+- Extract the Zip File
+- Run the Cookie Clicker Cheat File
+
 
 ## How to save game
 - if you wanna play the game in the application for some reason you always have to save your game with the buttons in settings
